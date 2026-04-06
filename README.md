@@ -14,5 +14,5 @@ Perfect for:
 - Challenge maps with limited resources
 - Custom datapacks that alter mob spawning
 - Players who value consistency and smart design
-
+#
 [![Available on Modrinth](https://img.shields.io/badge/Available%20on-Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/datapack/coal-to-black-dye)&nbsp;&nbsp;&nbsp;&nbsp;[![Available on GitHub](https://img.shields.io/badge/Available%20on-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/P3RXT/Coal-to-Dy)
