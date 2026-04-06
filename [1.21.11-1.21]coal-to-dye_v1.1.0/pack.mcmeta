@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": "Craft Black dye from Coal",
+    "pack_format": 48,
+    "supported_formats": { "min_inclusive": 48, "max_inclusive": 101 },
+    "min_format": 48,
+    "max_format": 94.1
+  }
+}
