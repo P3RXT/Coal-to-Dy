@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Craft Black dye from Coal",
+    "pack_format": 83,
+    "supported_formats": [48, 83]
+  }
+}
